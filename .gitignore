@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets (defensive — there shouldn't be any in this public repo)
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+
+# Large outputs (sample_output.csv is committed intentionally for proof; larger generated files are not)
+output_full.csv
+output_*.csv
+!sample_output.csv
