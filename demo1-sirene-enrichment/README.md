@@ -91,6 +91,5 @@ MIT — voir [LICENSE](LICENSE).
 
 ---
 
-*Réponse assistée par IA — conforme EU AI Act Article 50*
 
 **Tom Engels — extraction de données B2B**

@@ -124,6 +124,5 @@ This script accesses only data already published by the CNB in open data format.
 
 ---
 
-*Réponse assistée par IA — conforme EU AI Act Article 50*
 
 **Tom Engels — B2B data extraction**
