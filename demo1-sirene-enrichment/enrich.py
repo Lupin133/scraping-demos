@@ -1,5 +1,5 @@
 """
-Limier — Enrichissement SIRET
+Enrichissement SIRET
 ============================
 Prend un CSV de SIRETs (colonne `siret`), retourne un CSV enrichi avec :
   - Données entreprise : Recherche-Entreprises (api.gouv.fr)
@@ -11,7 +11,7 @@ Toutes les APIs sont gratuites et sans authentification.
 Usage :
     python enrich.py sample_input.csv sample_output.csv
 
-Réponse assistée par IA — Limier | tomengels.dev
+Tom Engels
 """
 from __future__ import annotations
 
@@ -288,7 +288,7 @@ def run_enrichment(input_path: str, output_path: str) -> pd.DataFrame:
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Limier — Enrichissement SIRET (Sirene + BAN + Géorisques)"
+        description="Enrichissement SIRET (Sirene + BAN + Géorisques)"
     )
     parser.add_argument("input", help="CSV d'entrée avec colonne 'siret'")
     parser.add_argument("output", help="CSV de sortie enrichi (14 colonnes)")

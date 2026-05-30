@@ -1,5 +1,5 @@
 """
-Limier — Demo 2: CNB Avocats Scraping with Scrapling
+Demo 2: CNB Avocats Scraping with Scrapling
 =====================================================
 Extracts French lawyers from the CNB (Conseil National des Barreaux) directory.
 
@@ -26,7 +26,7 @@ Usage:
 Note: This script respects server resources. A 1-2s delay is applied between
 requests (RATE_LIMIT_DELAY constant). The CNB dataset is public open data.
 
-AI-assisted response — Limier | Data extraction studio
+Tom Engels
 """
 from __future__ import annotations
 
@@ -446,7 +446,7 @@ def _build_arg_parser() -> argparse.ArgumentParser:
     """Build and return the CLI argument parser."""
     parser = argparse.ArgumentParser(
         description=(
-            "Limier Demo 2 — Extract lawyers from CNB open directory\n"
+            "Demo 2 — Extract lawyers from CNB open directory\n"
             "Data: Annuaire des avocats de France (data.gouv.fr, Etalab 2.0)\n"
             "Stack: Scrapling Fetcher (curl_cffi TLS fingerprint)\n"
         ),

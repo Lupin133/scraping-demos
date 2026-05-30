@@ -1,4 +1,4 @@
-# Limier — Demo 2: CNB Lawyers Directory — Anti-Bot Scraping with Scrapling
+# Demo 2 — CNB Lawyers Directory — Anti-Bot Scraping with Scrapling
 
 ![Python 3.13](https://img.shields.io/badge/Python-3.13-blue)
 ![License MIT](https://img.shields.io/badge/License-MIT-green)
@@ -126,4 +126,4 @@ This script accesses only data already published by the CNB in open data format.
 
 *Réponse assistée par IA — conforme EU AI Act Article 50*
 
-**Limier — Data extraction studio**
+**Tom Engels — B2B data extraction**

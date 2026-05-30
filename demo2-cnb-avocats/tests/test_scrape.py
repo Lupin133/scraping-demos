@@ -1,5 +1,5 @@
 """
-Tests for scrape_cnb.py — Limier Demo 2: CNB Avocats scraping.
+Tests for scrape_cnb.py — Demo 2: CNB Avocats scraping.
 
 Uses mocks to avoid live HTTP calls during CI.
 Coverage target: > 60% on scrape_cnb.py

@@ -1,4 +1,4 @@
-# Limier — Demo 1 : Enrichissement SIRET
+# Demo 1 — Enrichissement SIRET
 
 ![Python 3.13](https://img.shields.io/badge/Python-3.13-blue)
 ![License MIT](https://img.shields.io/badge/License-MIT-green)
@@ -93,4 +93,4 @@ MIT — voir [LICENSE](LICENSE).
 
 *Réponse assistée par IA — conforme EU AI Act Article 50*
 
-**Limier — extraction de données B2B | tomengels.dev**
+**Tom Engels — extraction de données B2B**
